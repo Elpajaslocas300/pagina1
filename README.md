@@ -1,4 +1,4 @@
-El equipo 7 les agradece su atencion
+El equipo 10 les agradece su atencion
 
 
 
