@@ -6,7 +6,7 @@ monroy
 
 albores
 
-ana
+ ana vazquez rangel
 
 yoselyn
 
@@ -14,7 +14,7 @@ jared
 
 zuri
 
-<img src="di caprio.gif" alt="">2
+<img src="" alt="">2
 
 
 
