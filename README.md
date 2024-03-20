@@ -10,7 +10,7 @@ albores
 
 yoselyn
 
-jared
+jared URSUA
 
 zuri
 
