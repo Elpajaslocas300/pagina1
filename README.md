@@ -14,7 +14,7 @@ jared
 
 zuri
 
-<img src="" alt="">2
+<img src="fondo.JPG" alt="">2
 
 
 
