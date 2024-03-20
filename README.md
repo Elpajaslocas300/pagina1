@@ -11,7 +11,7 @@ zuri
 
 
 
-<img src="fondo.JPG" alt="">2
+<img src="di caprio.jpeg" alt="">2
 
 
 
