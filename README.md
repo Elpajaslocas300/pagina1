@@ -8,9 +8,10 @@ El equipo 4 les agradece su atencion
 
 
 
+Juega mario brooooos
 
 
-<a href= "index.html">Play</a>
+<a href= "mario.html">Play</a>
 
 
 
