@@ -14,7 +14,7 @@ jared URSUA
 
 zuri
 
-<img src="fondo.JPG" alt="">2
+<img src="escuela.jpg" alt="">2
 
 
 
