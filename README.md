@@ -14,7 +14,7 @@ jared URSUA
 
 zuri
 
-<img src="escuela.jpg" alt="">2
+<img src="di caprio.gif" alt="">2
 
 
 
