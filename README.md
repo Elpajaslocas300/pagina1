@@ -1,3 +1,3 @@
 # Zacariaz Segundo Zurisadai
 
-<img src= "di caprio.gif">
+<img src= "">
