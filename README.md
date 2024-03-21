@@ -2,7 +2,7 @@ El equipo 9 les agradece su atencion
 
 eduardo
 
-monroy
+monroy es gay
 
 albores
 
